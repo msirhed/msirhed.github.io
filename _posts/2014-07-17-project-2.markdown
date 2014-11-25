@@ -5,8 +5,15 @@ date: 2014-07-17
 img: cake.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+title: Compassion Community
+client: Compassion Community
+category: Public Housing
+description: Compassion Community Group commissioned Trusst to design a new, public housing development in San Francisco. This 120-unit building features a mix of indoor and outdoor community spaces as well as residential and commercial units. 70% of the building’s materials were recycled, and interior design features included reclaimed wood and high ceilings.
+
+education_integration:  Members worked closely with Staff to source recycled materials for this building and to integrate recycled design elements in creative ways. Members worked to balance utility, beauty, and environmentally-friendly practices to create competing proposals for this project.
+
+event_integration: Upon the grand opening of the building, Trusst hosted a building-wide house warming party, where new residents were presented with their unit keys. Local businesses donated housewares, furniture, and decorative items to residents.
+
+charity_tagline: Donations of material goods went to Compassion Community Group to be distributed to their residents.
 
 ---

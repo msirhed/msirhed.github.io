@@ -16,18 +16,29 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+
+                            <p><strong>Education Integration:</strong> {{ post.education_integration }}</p>
+                            <p><strong>Event Integration:</strong> {{ post.event_integration }}</p>
+
+                            <p>{{post.charity_tagline}}</p>
+
+                            {% if post.charities %}
+                                <ul>
+                                {% for charity in post.charities %}
+                                    <li>{{ charity }}</li>
+                                {% endfor %}
+                                </ul>
+                            {% endif %}
+
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
+                                    <strong>{{ post.client }}</strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
+                                    <strong>{{ post.project-date }}</strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
+                                    <strong>{{ post.category }}</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>

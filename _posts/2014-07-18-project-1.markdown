@@ -5,8 +5,18 @@ date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12! BLERG!
+title: Sirhed, Gleason, & Strathmeyer
+client: Sirhed, Gleason, & Strathmeyer
+category: Law Firm
+description: Sirhed, Gleason, & Strathmeyer, LLC, is a 3 year old startup-style personal tax law firm based in Chicago. They hired Trusst to design their new office space, which they wanted to represent their unique mix of industry experience and youthful energy. This project involved quite a bit of construction, as their new space was a huge, empty warehouse. Trusst designed not only the interiors, but also the layout of the office. Taking cues from classical Chicago architecture, Trusst mixed sturdy materials with fresh color and patterns to create a fresh take on old school design.
+education_integration: Members spent a great deal of time studying historical construction methods and decoration to create the interiors of the legal firm’s office.
+event_integration: After the office’s opening, Trusst organized a Counsel Faire for the surrounding community, where the legal firm’s partners and associates devoted a percentage of their time to pro-bono case work with Chicagoans who could not afford attorneys. Trusst partnered with local nonprofit organizations to match these underserved residents with lawyers, who offered advice, helped with paperwork, and resolved cases.
+charity_tagline: "Trusst partnered with 3 local outreach programs:"
+charities:
+  - Focus Chicago
+  - Step Up to Jobs
+  - Cook County Family Resources Group
 
 ---
+
+Foo.
