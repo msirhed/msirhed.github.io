@@ -402,6 +402,10 @@ footer .footer-below {
     text-align: center;
 }
 
+.portfolio-modal .modal-content h5 {
+    text-align: center;
+}
+
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }
@@ -409,7 +413,8 @@ footer .footer-below {
 .portfolio-modal .modal-content .tagline {
   display: block;
   text-align: center;
-  padding-bottom: 1em;
+  margin: 0.5em 0;
+  font-style: italic;
 }
 
 .portfolio-modal .modal-content .item-details {

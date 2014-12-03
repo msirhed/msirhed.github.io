@@ -5,7 +5,7 @@ date: 2014-07-18
 img: law1.png
 second-img: law2.png
 alt: image-alt
-project-date: April 2014
+location: Chicago, IL
 title: Sirhed, Gleason, & Strathmeyer
 client: Sirhed, Gleason, & Strathmeyer
 category: Law Firm

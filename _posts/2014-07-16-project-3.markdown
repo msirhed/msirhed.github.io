@@ -5,7 +5,7 @@ date: 2014-07-16
 img: clinic1.png
 second-img: clinic2.png
 alt: image-alt
-project-date: April 2014
+location: New York, NY
 title: St. Andrew’s Clinic
 client: St. Andrew’s Clinic
 category: Health Care
