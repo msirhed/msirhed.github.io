@@ -9,6 +9,7 @@ project-date: April 2014
 title: St. Andrew’s Clinic
 client: St. Andrew’s Clinic
 category: Health Care
+tagline: Remodeled a health care facility.
 description: St. Andrews Clinic is located in one of New York’s most underprivileged areas and serves 500 patients a day. St. Andrews wished to update their interior design to reflect their mission and state-of-the-art health care. They looked to Trusst to carry out on this vision. Using a warm, inviting color palette, we extensively remodelled their space, while keeping the look of the building’s exterior, a facade that the neighborhood sees as a beacon of reliability and stability. We were able to keep the clinic open at half capacity during the remodelling by building in stages, which ensured that the community wasn’t drastically inconvenienced by the improvements.
 
 education_integration: Our members were involved heavily in the design of St. Andrews, working with a wide range of colors and textures. One group investigated the healing impact of colors, and incorporated this study into St. Andrew’s design.

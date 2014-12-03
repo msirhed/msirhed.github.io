@@ -399,10 +399,17 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
+    text-align: center;
 }
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+}
+
+.portfolio-modal .modal-content .tagline {
+  display: block;
+  text-align: center;
+  padding-bottom: 1em;
 }
 
 .portfolio-modal .modal-content .item-details {

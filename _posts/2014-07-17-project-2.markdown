@@ -9,6 +9,7 @@ project-date: April 2014
 title: Compassion Community
 client: Compassion Community
 category: Public Housing
+tagline: Designed and developed an 8-storey building for low-income residents.
 description: Compassion Community Group commissioned Trusst to design a new, public housing development in San Francisco. This 120-unit building features a mix of indoor and outdoor community spaces as well as residential and commercial units. 70% of the building’s materials were recycled, and interior design features included reclaimed wood and high ceilings.
 
 education_integration:  Members worked closely with Staff to source recycled materials for this building and to integrate recycled design elements in creative ways. Members worked to balance utility, beauty, and environmentally-friendly practices to create competing proposals for this project.
