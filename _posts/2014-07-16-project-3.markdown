@@ -22,4 +22,7 @@ charities:
   - NY Moms Against Cancer, funding Cancer research
   - Johnson Foundation, subsidizing health coverage for the poor
 
+photos_from:
+  - http://cdn.morguefile.com/imageData/public/files/k/kswiens/04/l/13980322880q02s.jpg
+  - http://creative-way.deviantart.com/art/House-Interior-70533359
 ---

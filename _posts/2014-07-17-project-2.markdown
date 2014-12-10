@@ -17,5 +17,7 @@ education_integration:  Members worked closely with Staff to source recycled mat
 event_integration: Upon the grand opening of the building, Trusst hosted a building-wide house warming party, where new residents were presented with their unit keys. Local businesses donated housewares, furniture, and decorative items to residents.
 
 charity_tagline: Donations of material goods went to Compassion Community Group to be distributed to their residents.
-
+photos_from:
+  - http://gefeoz.deviantart.com/art/Livingroom-02-152474384
+  - http://felicenatalie.deviantart.com/art/Cozy-study-room-57268832
 ---

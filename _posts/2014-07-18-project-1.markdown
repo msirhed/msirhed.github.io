@@ -18,8 +18,9 @@ charities:
   - Focus Chicago
   - Step Up to Jobs
   - Cook County Family Resources Group
-citations:
+photos_from:
   - http://en.wikipedia.org/wiki/Lakeview_Historic_District_(Chicago,_Illinois)#mediaviewer/File:Mandel_Brothers_Warehouse.JPG
+  - http://cierseruwal.deviantart.com/art/Interior-2-333469656
 ---
 
 Foo.
